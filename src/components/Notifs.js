@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+import { CSSTransitionGroup } from 'react-transition-group';
 import Notif from './Notif';
 import PropTypes from 'prop-types';
 
